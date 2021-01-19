@@ -2,6 +2,7 @@
 A simple yet powerful logging library for Python.
 
 Copyright © 2021 coresdev
+
 Made with <3 using python
 
 ## Getting started
